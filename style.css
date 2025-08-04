@@ -1,0 +1,50 @@
+body {
+  font-family: 'Courier New', monospace;
+  background: #0d0d0d;
+  color: #00ff99;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.game-container {
+  text-align: center;
+  max-width: 600px;
+  padding: 30px;
+  border: 2px solid #00ff99;
+  border-radius: 15px;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+button {
+  background: #00ff99;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+button:hover {
+  background: #00cc77;
+}
+
+#level-container p {
+  font-size: 18px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 70%;
+  margin-top: 15px;
+  border: none;
+  border-radius: 5px;
+}
