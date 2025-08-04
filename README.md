@@ -2,6 +2,14 @@
 
 MindHack is a fast-paced, logic-driven mini-puzzle game where you're the hacker — and your mission is to crack the digital vault by solving increasingly tricky challenges. From pattern recognition and binary decoding to logic puzzles and math traps, every level pushes your brain to the limit.
 
+## HOW TO PLAY THE GAME!!
+- This game wont tell you right answers due to the complexity and the target users of the game
+- You need to get all the right answers for the game
+- If you are really stuck in the game try to look at script.js for all the answers if you understand the code 
+- Try not to copy all the answers the one you are really stuck in 
+- This game do not have that many levels but the game can be complicated
+- 
+
 ## Objective:
 Crack through 5 digital firewalls by solving mini brain-teasing puzzles before you're locked out.
 
