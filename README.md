@@ -8,7 +8,10 @@ MindHack is a fast-paced, logic-driven mini-puzzle game where you're the hacker 
 - If you are really stuck in the game try to look at script.js for all the answers if you understand the code 
 - Try not to copy all the answers the one you are really stuck in 
 - This game do not have that many levels but the game can be complicated
-- 
+
+  
+- <img width="1113" height="522" alt="image" src="https://github.com/user-attachments/assets/4041e81f-a419-4d18-b079-8b0acc9d2882" />
+
 
 ## Objective:
 Crack through 5 digital firewalls by solving mini brain-teasing puzzles before you're locked out.
